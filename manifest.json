@@ -1,6 +1,6 @@
 {
-  "name": "RowsX",
-  "description": "RowsX is your go-to tool for efficiently extracting tables and lists from web pages and move that data to Rows.",
+  "name": "RowsXfork",
+  "description": "RowsXfork is your go-to tool for efficiently extracting tables and lists from web pages. Credit to the original Chrome extension from Rows",
   "manifest_version": 3,
   "background": {
     "service_worker": "src/background.ts",
